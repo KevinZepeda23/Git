@@ -26,4 +26,3 @@ document.addEventListener('DOMContentLoaded', () => {
         section.classList.add('active');
     }
 });
-//Hola Puto Juan
