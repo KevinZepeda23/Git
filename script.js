@@ -4,7 +4,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const contactBtn = document.getElementById('contactBtn');
 
     const homeSection = document.getElementById('home');
-    const aboutSection = document.getElementById('about');
+    const aboutSection = document.getElementById('sobre');
     const contactSection = document.getElementById('contact');
 
     homeBtn.addEventListener('click', () => {
@@ -26,3 +26,4 @@ document.addEventListener('DOMContentLoaded', () => {
         section.classList.add('active');
     }
 });
+
