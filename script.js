@@ -4,7 +4,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const contactBtn = document.getElementById('contactBtn');
 
     const homeSection = document.getElementById('home');
-    const aboutSection = document.getElementById('sobre');
+    const aboutSection = document.getElementById('about');
     const contactSection = document.getElementById('contact');
 
     homeBtn.addEventListener('click', () => {
